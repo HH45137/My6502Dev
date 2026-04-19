@@ -1,0 +1,9 @@
+software/*/*/
+software/*/*.dll
+software/*/*.exe
+software/*/*.json
+software/*/*.txt
+software/*/*.xml
+software/*/COPYING
+software/*/NEWS
+software/*/README
